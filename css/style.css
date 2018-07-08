@@ -84,6 +84,12 @@ nav li a:hover {
     font-weight: bold;
 }
 
+@media screen and (max-width: 800px) {
+    .media {
+        display: none;
+    }
+}
+
 /********** Banner *********************/
 
 #banner {
